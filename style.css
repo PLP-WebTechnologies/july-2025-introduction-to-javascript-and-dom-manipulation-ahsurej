@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 1rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2 {
+  color: blue;
+}
+
+button {
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+}
+
+#part4.toggled {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 5px;
+}
